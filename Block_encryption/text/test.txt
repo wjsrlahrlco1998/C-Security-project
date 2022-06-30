@@ -1,0 +1,6 @@
+This is PlainText.
+Alice has 600$.
+Bob has 60$.
+Alice is student.
+Alice's money is fake.
+Trudy don't read this text.
